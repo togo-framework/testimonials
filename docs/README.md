@@ -2,13 +2,13 @@
 
 Testimonial + rotating Quote resources.
 
-- **Source:** https://github.com/fadymondy/testimonials
+- **Source:** https://github.com/togo-framework/testimonials
 - **Reference app:** https://fadymondy.com
 
 ## Install
 
 ```bash
-togo install fadymondy/testimonials
+togo install togo-framework/testimonials
 ```
 
 The plugin self-registers on blank-import (no manual wiring). See the top-level

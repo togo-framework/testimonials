@@ -1,4 +1,4 @@
-module github.com/fadymondy/testimonials
+module github.com/togo-framework/testimonials
 
 go 1.26.4
 
